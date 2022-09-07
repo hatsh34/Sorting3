@@ -2,7 +2,7 @@ import java.util.*;
 public class NewSort{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TO Auto-generated method stub
 		
 		    //declare an array and print the original contents
 		    int[] numArray = {10,6,15,4,1,45};  
